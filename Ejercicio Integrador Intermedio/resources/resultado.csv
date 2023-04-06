@@ -1,0 +1,9 @@
+legajo, alumno, materia id, materia nombre, estado de la inscripcion
+ABC000, Jose Rodriguez, 0, Programacion I, Aprobada
+ABC001, Vanesa Sosa, 3, Bases de datos I, Aprobada
+ABC002, Lucia Perez, 3, Bases de datos I, Aprobada
+ABC001, Vanesa Sosa, 1, Programacion II, Rechazada
+ABC003, Garcia Helen, 2, Programacion III, Aprobada
+ABC004, , 2, Programacion III, No existe el/la alumno/a
+ABC003, Garcia Helen, 6, , No existe la materia
+ABC005, , 7, , No existe el/la alumno/a. No existe la materia
